@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class SumOdd{
     public static void main(String[] args){
-        int sum=0;
         Scanner sc = new Scanner(System.in);
+        int sum=0;
         System.out.println("Enter the number");
         int number = sc.nextInt();
         for(int i=1; i<=number; i++){
@@ -14,5 +14,6 @@ public class SumOdd{
             }
         }
         System.out.println("The sum of odd number from 1 to "+ number + " is "+ sum);
+        return;
     }
 }
