@@ -1,0 +1,1 @@
+# This part contain the Difficulty leve = Hard
