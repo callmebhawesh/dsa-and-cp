@@ -1,1 +1,1 @@
-# This part contain the Difficulty leve = Hard
+# This part contain the Difficulty level = Hard

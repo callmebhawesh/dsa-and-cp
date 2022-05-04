@@ -1,1 +1,1 @@
-# This part contain the Difficulty leve = Easy
+# This part contain the Difficulty level = Easy

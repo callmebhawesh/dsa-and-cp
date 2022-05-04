@@ -1,1 +1,1 @@
-# This part contain the Difficulty leve = Medium
+# This part contain the Difficulty level = Medium
