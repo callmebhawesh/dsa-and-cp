@@ -13,6 +13,6 @@ public class SumOdd{
                 sum += i;
             }
         }
-        System.out.println("The sum of number from 1 to "+ number + " is "+ sum);
+        System.out.println("The sum of odd number from 1 to "+ number + " is "+ sum);
     }
 }
