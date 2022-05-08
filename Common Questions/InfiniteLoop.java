@@ -1,3 +1,4 @@
+// write an infinite loop using do while loop
 import java.util.Scanner;
 
 public class InfiniteLoop {
@@ -12,10 +13,13 @@ public class InfiniteLoop {
         int n = sc.nextInt();
         if(n==0 || n<0){
             System.out.println("Please enter number greater than 0.");
+        } else{
+do{
+    System.out.println("Welcome to loop");
+}
+        
+        while(n>0);
         }
-        while(n>0){
-            System.out.println("loop is running"); 
-        }   
         } finally {
             sc.close();
         }
